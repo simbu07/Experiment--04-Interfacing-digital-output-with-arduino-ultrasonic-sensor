@@ -34,7 +34,7 @@ The time between the transmission and reception of the signal allows us to calcu
 distance to an object = ((speed of sound in the air)*time)/2
 speed of sound in the air at 20ºC (68ºF) = 343m/s
 
-#### FIGURE 01 CIRCUIT OF INTERFACING ULTRASONIC SENSOR 
+### FIGURE 01 CIRCUIT OF INTERFACING ULTRASONIC SENSOR 
 
 
 ![image](ex4robo.png)
