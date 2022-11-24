@@ -1,6 +1,6 @@
 # EXPERIMENT-NO--04-Distance measurement using Ultrasonic sensor
 
-## AIM: 
+### AIM: 
 To interface an ultrasonic pair and measure the distance in centimeters , calculate the error
  
 ### COMPONENTS REQUIRED:
@@ -34,7 +34,7 @@ The time between the transmission and reception of the signal allows us to calcu
 distance to an object = ((speed of sound in the air)*time)/2
 speed of sound in the air at 20ºC (68ºF) = 343m/s
 
-### FIGURE 01 CIRCUIT OF INTERFACING ULTRASONIC SENSOR 
+### FIGURE 01 CIRCUIT OF INTERFACING ULTRASONIC SENSOR:
 
 
 ![image](ex4robo.png)
@@ -54,9 +54,10 @@ speed of sound in the air at 20ºC (68ºF) = 343m/s
 10.	Plot the graph for the output voltage vs the resistance 
 
 
-### PROGRAM 
+### PROGRAM :
 ``` NAME:Silambarasan.K
-    ROLL NO:212221230101````
+    ROLL NO:212221230101```
+    
 ```
 const int trigpin = 2;
 const int echopin = 4;
@@ -106,7 +107,7 @@ void loop()
 
 
 
-### RESULTS
+### RESULT:
 
 Thus the average error is calculated successfully
 
