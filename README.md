@@ -56,7 +56,8 @@ speed of sound in the air at 20ºC (68ºF) = 343m/s
 
 ### PROGRAM :
 ``` NAME:Silambarasan.K
-    ROLL NO:212221230101```
+    ROLL NO:212221230101
+```
     
 ```
 const int trigpin = 2;
@@ -86,10 +87,6 @@ void loop()
 }
 ```
 
-
-
-
-
 ### Distance vs measurement table 
 ![image](ex4robo2.png)
 
@@ -99,13 +96,6 @@ void loop()
 	Average error = sum/ number of readings 
 		AVG = 10.6/5
 		    = 2.12
-
-
-
-
-
-
-
 
 ### RESULT:
 
